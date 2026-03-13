@@ -49,5 +49,4 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 ⭐ Obrigado por visitar meu perfil!
 
-📧 Email: [paola_crai-santos@estudante.sesinai.org.br]  
-💼 GitHub: https://github.com/paolacrai-santos-beep
+

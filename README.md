@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Paola Crai dos Santos.
 
-🎓 Estudante da Aprendizagem Industrial em Programador de Sistemas de Informação
-🎓 Estudante da Aprendizagem Industrial em Assistente Admnistrativo
+🎓 Estudante da Aprendizagem Industrial em Programador de Sistemas de Informação - JBS
+🎓 Curso de Aprendizagem Industrial em Assistente Admnistrativo - JBS(2023)
 💻 Interessado em tecnologia, programação e inovação  
 
 ---

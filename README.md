@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou Paola Crai dos Santos.
 
-🎓 Estudante da Aprendizagem Industrial em Programador de Sistemas de Informação - JBS
-🎓 Curso de Aprendizagem Industrial em Assistente Admnistrativo - JBS(2023)
+🎓 Estudante da Aprendizagem Industrial em Programador de Sistemas de Informação. (SENAI) contratado pela empresa Seara Alimentos.
+🎓 Curso de Aprendizagem Industrial em Assistente Admnistrativo -(SENAI) contratado pela empresa Seara Alimentos(2023).
+🎓 Estudante do terceiro ano da Escola de Educação Básica Cecília Vivan
+
 💻 Interessado em tecnologia, programação e inovação  
 
 ---

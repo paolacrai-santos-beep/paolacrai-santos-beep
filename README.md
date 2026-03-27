@@ -6,12 +6,14 @@
 
 🎓 Curso de Inglês Básico (SEBRATEP) - 2021.
 
-🎓 Estudante do 3ª série da Escola de Educação Básica Cecília Vivan
+🎓 Estudante do 3º ano da Escola de Educação Básica Cecília Vivan
 
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
+## 📜 Cursos de Curta Duração
 
+🏛 Inglês básico – [SEBRATEP] (2021)
 
 
 ## 👨‍💻 Sobre mim

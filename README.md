@@ -4,8 +4,6 @@
 
 🎓 Curso de Aprendizagem Industrial em Assistente Admnistrativo. (SENAI) contratado pela empresa Seara Alimentos(2023).
 
-🎓 Curso de Inglês Básico (SEBRATEP) - 2021.
-
 🎓 Estudante do 3º ano da Escola de Educação Básica Cecília Vivan
 
 💻 Interessado em tecnologia, programação e inovação  
